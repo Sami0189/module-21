@@ -32,7 +32,6 @@ function oddAverage(number){
     //console.log('average of the odd number is:',avg);
     return avg;
 }
-
 const numbers = [42,13,58,65,81,96,7,111];
 const avg = oddAverage(numbers);
 console.log('average of the odd number is:',avg);
